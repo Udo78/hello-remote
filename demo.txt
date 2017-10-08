@@ -1,2 +1,2 @@
 Here is some text added in the GitHub repository directly.
-... and here is some text which I first adde locally
+... and here is some text which I first added locally
